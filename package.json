@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.0.44",
+    "@langchain/openai": "^0.0.26",
+    "@supabase/supabase-js": "^2.42.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "franc": "^6.2.0",
+    "langchain": "^0.1.31",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "saksan_ai",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
